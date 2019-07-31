@@ -1,6 +1,7 @@
 <?php
 require("get_money.php");
 
+
 $money = [
 	100000,
 	50000,
